@@ -37,3 +37,5 @@
 <p>Contributions to improve the analysis or dashboard are welcome. Please feel free to fork the repository and submit pull requests.</p>
 <br>
 <p><strong>Author:</strong> Jitender Tehilyani</p>
+<br>
+<p><strong>Password:</strong> 12345</p>
